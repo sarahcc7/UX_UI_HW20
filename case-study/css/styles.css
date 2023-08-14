@@ -1,0 +1,80 @@
+/* Rubik Font Family */
+body, h1, h2, h3, h4, h5, h6, p, a, button {
+  font-family: 'Rubik', sans-serif !important;
+}
+/* Original Header Style */
+html {
+  scroll-behavior: smooth;
+}
+header {
+  background-color: #363636;
+  padding: 15px;
+}
+header ul {
+  display: flex;
+  align-items: center;
+  flex-flow: row nowrap;
+  list-style-type: none;
+  margin: 0;
+  gap: 16px;
+}
+header li {
+  display: inline-block;
+  padding: 0px 5px;
+  
+}
+header a {
+  color: white;
+  text-decoration: none;
+}
+/* Original Footer Style */
+footer {
+  background-color: #373738;
+  padding: 15px;
+
+}
+footer ul {
+  list-style: none;
+}
+footer li {
+  display: inline-block;
+  padding: 0px 5px;
+}
+footer a {
+  color: white;
+  text-decoration: none;
+}
+
+.col-12 {
+    color:#363636
+}
+
+/* Custom CSS */
+.brief_labels {
+  color: #333;
+}
+
+.goal {
+  font-weight: 500;
+  color: #333;
+}
+
+.quickLink {
+  background-color: lightgray !important;
+  border: 2px solid lightgray !important;
+  color: #333 !important;
+  font-weight: 500;
+  
+}
+
+.quickLink:hover {
+  color: ghostwhite !important;
+  background-color: #333 !important;
+  border: 2px solid #333 !important;
+  font-weight: 500;
+}
+
+.statement {
+  border: 3px solid black !important;
+  border-radius: 4% !important;
+}
