@@ -78,3 +78,15 @@ footer a {
   border: 3px solid black !important;
   border-radius: 4% !important;
 }
+.work-link:hover {
+    color: #C6D60F;
+    
+}
+.me-link:hover {
+    color: #C6D60F;
+    
+}
+.portfolio-link:hover {
+    color: #C6D60F;
+    
+}
